@@ -1,6 +1,7 @@
 node_modules
 
-# ignore all logs files
+# ignore all files in this folder
 uploads/*
 
 Instructions
+.gitignore
